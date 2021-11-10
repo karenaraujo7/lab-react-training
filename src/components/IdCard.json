@@ -1,0 +1,18 @@
+[
+    {
+        "picture": "https://randomuser.me/api/portraits/men/44.jpg",
+        "firstName": "John",
+        "lastName": "Doe",
+        "gender": "male",
+        "height": "1.78m",
+        "bird": "Mon Jul 13 1992"
+    },
+    {
+        "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+        "firstName": "Delores",
+        "lastName": "Obrien",
+        "gender": "female",
+        "height": "1.72m",
+        "bird": "Tue May 11 1993"
+    }
+]
