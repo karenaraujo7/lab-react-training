@@ -1,5 +1,5 @@
-import info from "./IdCard.json"
-import IdCard from "./IdCard"
+import info from "../IdCard/IdCard.json"
+import IdCard from "../IdCard/IdCard"
 
 function Informaction () {
     return ( <div>

@@ -1,4 +1,4 @@
-import "../idCard.css"
+import "../IdCard/idCard.css"
 
 function IdCard(props) {
     return (
